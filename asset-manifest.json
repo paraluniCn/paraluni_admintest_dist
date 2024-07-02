@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.73a6bdef.css",
+    "main.js": "/static/js/main.e8c3ab17.js",
+    "974.css": "/974.css",
+    "static/css/974.8b6097be.chunk.css": "/static/css/974.8b6097be.chunk.css",
+    "static/js/974.23a20c44.chunk.js": "/static/js/974.23a20c44.chunk.js",
+    "static/js/908.e6076ed5.chunk.js": "/static/js/908.e6076ed5.chunk.js",
+    "static/media/activity_bg.png": "/static/media/activity_bg.45181883ff3fabbc03ba.png",
+    "static/media/bg.png": "/static/media/bg.29181030b72d69ac4591.png",
+    "static/media/up.svg": "/static/media/up.0bf64b155e534caf5d7a.svg",
+    "static/media/down.svg": "/static/media/down.a276471417b0da2c0d35.svg",
+    "static/media/holder.svg": "/static/media/holder.4f5ebd11a94cc9851a0f7f1d25b0c4ad.svg",
+    "static/media/mining_bg.svg": "/static/media/mining_bg.ce3061c02a155eb4a012.svg",
+    "static/media/hehuo_icon.svg": "/static/media/hehuo_icon.fdb293bebef3d4a710de5fad4ce2b637.svg",
+    "static/media/deng.svg": "/static/media/deng.2749fb8cd385039e1db8c493aa269986.svg",
+    "static/media/no_charge.svg": "/static/media/no_charge.166dcb29ed1b7d3e725a21600c7f7e3e.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "main.css",
+    "static/css/main.73a6bdef.css",
+    "static/js/main.e8c3ab17.js"
+  ]
+}
